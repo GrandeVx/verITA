@@ -17,7 +17,7 @@ ai consumatori di verificare l'autenticità dei prodotti in modo _**rapido e aff
 la qualità del Made in Italy.
 
 - _**Coinvolgere attivamente i consumatori**_ nella _**lotta**_ alla _**contraffazione**_ : vogliamo promuovere la partecipazione attiva dei consumatori nella _**segnalazione di prodotti   
-contraffatti**_ creando un _**network**_ di **_collaborazione_** e un monitoraggio _**condiviso**_, che coinvolga produttori, autorità e consumatori nella difesa del Made in Italy.
+contraffatti**_ creando un _**network**_ di **_collaborazione_** e un _**monitoraggio condiviso**_, che coinvolga produttori, autorità e consumatori nella difesa del Made in Italy.
 
 
 
