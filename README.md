@@ -16,8 +16,39 @@ ai consumatori di verificare l'autenticità dei prodotti in modo _**rapido e aff
 - _**Tracciare**_ il **_percorso_** di **_produzione_** e _**distribuzione**_ per _**garantire**_ la _**trasparenza**_ lungo l'intera filiera : l'implementazione di _sistemi di tracciabilità_   permetterà di _**monitorare il percorso di ogni prodotto**_ lungo la catena di distribuzione, dalla produzione al consumatore finale, facilitando la verifica dell'autenticità e garantendo
 la qualità del Made in Italy.
 
-- _**Coinvolgere attivamente i consumatori**_ nella _**lotta**_ alla _**contraffazione**_ : vogliamo promuovere la partecipazione attiva dei consumatori nella _**segnalazione di prodotti   
-contraffatti**_ creando un _**network**_ di **_collaborazione_** e un _**monitoraggio condiviso**_, che coinvolga produttori, autorità e consumatori nella difesa del Made in Italy.
+- _**Coinvolgere attivamente i consumatori**_ nella _**lotta**_ alla _**contraffazione**_ : vogliamo promuovere la partecipazione attiva dei consumatori nella
+_**segnalazione di prodotti   contraffatti**_ creando un _**network**_ di **_collaborazione_** e un _**monitoraggio condiviso**_, che coinvolga produttori, autorità e consumatori nella difesa del Made in Italy.
+
+<br>
+
+## Stack Tecnologico 
+
+- **Hardware** :  **RFid** _(readable-writable)_ con tecnologia **PUF** _(Physical Unclonable Functions)_
+- **Software** : // 
+
+<br>
+
+## Architettura del Sistema
+
+_**Descrizione generale**:_
 
 
+_**Architettura Hardware**_
+
+
+_**Architettura Software**_
+
+
+
+
+
+
+
+
+
+
+
+
+
+_**Fonte:**_ _Tutte le informazioni riguardanti le tecnologie di anti-contraffazione sopra menzionate sono state estrapolate dalla "Guida alle Tecnologie Anti-Contraffazione" dell' "UFFICIO ITALIANO BREVETTI E MARCHI DIREZIONE GENERALE PER LA TUTELA DELLA PROPRIETA' INDUSTRIALE (DGTPI-UIBM)"_
 
