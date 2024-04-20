@@ -16,8 +16,8 @@ ai consumatori di verificare l'autenticità dei prodotti in modo _**rapido e aff
 - _**Tracciare**_ il **_percorso_** di **_produzione_** e _**distribuzione**_ per _**garantire**_ la _**trasparenza**_ lungo l'intera filiera : l'implementazione di _sistemi di tracciabilità_   permetterà di _**monitorare il percorso di ogni prodotto**_ lungo la catena di distribuzione, dalla produzione al consumatore finale, facilitando la verifica dell'autenticità e garantendo
 la qualità del Made in Italy.
 
-- _**Coinvolgere attivamente i consumatori**_ nella _**lotta**_ alla _**contraffazione**_ : vogliamo promuovere la partecipazione attiva dei consumatori nella _**segnalazione di prodotti   
-contraffatti**_ creando un _**network**_ di **_collaborazione_** e un _**monitoraggio condiviso**_, che coinvolga produttori, autorità e consumatori nella difesa del Made in Italy.
+- _**Coinvolgere attivamente i consumatori**_ nella _**lotta**_ alla _**contraffazione**_ : vogliamo promuovere la partecipazione attiva dei consumatori nella
+_**segnalazione di prodotti   contraffatti**_ creando un _**network**_ di **_collaborazione_** e un _**monitoraggio condiviso**_, che coinvolga produttori, autorità e consumatori nella difesa del Made in Italy.
 
 
 
