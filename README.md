@@ -20,4 +20,27 @@ la qualità del Made in Italy.
 _**segnalazione di prodotti   contraffatti**_ creando un _**network**_ di **_collaborazione_** e un _**monitoraggio condiviso**_, che coinvolga produttori, autorità e consumatori nella difesa del Made in Italy.
 
 
+## Stack Tecnologico 
+
+- **Hardware** :  **RFid** _(readable-writable)_ con  tecnologia **PUF** _(Physical Unclonable Functions)_
+- **Software** : // 
+
+
+
+## Architettura del Sistema
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+_**Fonte:**_ _Tutte le informazioni riguardanti le tecnologie di anti-contraffazione sopra menzionate sono state estrapolate dalla "Guida alle Tecnologie Anti-Contraffazione" dell' "UFFICIO ITALIANO BREVETTI E MARCHI DIREZIONE GENERALE PER LA TUTELA DELLA PROPRIETA' INDUSTRIALE (DGTPI-UIBM)"__
 
