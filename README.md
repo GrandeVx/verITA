@@ -19,16 +19,24 @@ la qualità del Made in Italy.
 - _**Coinvolgere attivamente i consumatori**_ nella _**lotta**_ alla _**contraffazione**_ : vogliamo promuovere la partecipazione attiva dei consumatori nella
 _**segnalazione di prodotti   contraffatti**_ creando un _**network**_ di **_collaborazione_** e un _**monitoraggio condiviso**_, che coinvolga produttori, autorità e consumatori nella difesa del Made in Italy.
 
+<br>
 
 ## Stack Tecnologico 
 
-- **Hardware** :  **RFid** _(readable-writable)_ con  tecnologia **PUF** _(Physical Unclonable Functions)_
+- **Hardware** :  **RFid** _(readable-writable)_ con tecnologia **PUF** _(Physical Unclonable Functions)_
 - **Software** : // 
 
-
+<br>
 
 ## Architettura del Sistema
-.
+
+_**Descrizione generale**:_
+
+
+_**Architettura Hardware**_
+
+
+_**Architettura Software**_
 
 
 
@@ -42,5 +50,5 @@ _**segnalazione di prodotti   contraffatti**_ creando un _**network**_ di **_col
 
 
 
-_**Fonte:**_ _Tutte le informazioni riguardanti le tecnologie di anti-contraffazione sopra menzionate sono state estrapolate dalla "Guida alle Tecnologie Anti-Contraffazione" dell' "UFFICIO ITALIANO BREVETTI E MARCHI DIREZIONE GENERALE PER LA TUTELA DELLA PROPRIETA' INDUSTRIALE (DGTPI-UIBM)"__
+_**Fonte:**_ _Tutte le informazioni riguardanti le tecnologie di anti-contraffazione sopra menzionate sono state estrapolate dalla "Guida alle Tecnologie Anti-Contraffazione" dell' "UFFICIO ITALIANO BREVETTI E MARCHI DIREZIONE GENERALE PER LA TUTELA DELLA PROPRIETA' INDUSTRIALE (DGTPI-UIBM)"_
 
