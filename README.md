@@ -23,8 +23,8 @@ _**segnalazione di prodotti   contraffatti**_ creando un _**network**_ di **_col
 
 ## _Stack Tecnologico_ 
 
-- **Hardware** :  **RFid** _(readable-writable)_ con tecnologia **PUF** _(Physical Unclonable Functions)_
-- **Software** : // 
+- **Hardware** :  **Tag RFid Passivi** _(readable-writable)_ con tecnologia **PUF** _(Physical Unclonable Functions)_
+- **Software** :  **BMS** (Branding Monitoring System) integrato in **WebApp** (**"verITA"**) (.....)
 
 <br>
 
@@ -32,12 +32,25 @@ _**segnalazione di prodotti   contraffatti**_ creando un _**network**_ di **_col
 
 _**Descrizione generale**:_
 
+<br>
 
 _**Architettura Hardware**_
 
+**Tag RFid Passivi**
+
+
+
+
+
+**PUF _(Physical Unclonable Functions)_**
+
+
+
+<br>
 
 _**Architettura Software**_
 
+**WebApp "verITA"**
 
 
 
@@ -49,6 +62,8 @@ _**Architettura Software**_
 
 
 
+
+<br>
 
 _**Fonte:**_ _Tutte le informazioni riguardanti le tecnologie di anti-contraffazione sopra menzionate sono state estrapolate dalla "Guida alle Tecnologie Anti-Contraffazione" dell' "UFFICIO ITALIANO BREVETTI E MARCHI DIREZIONE GENERALE PER LA TUTELA DELLA PROPRIETA' INDUSTRIALE (DGTPI-UIBM)"_
 
