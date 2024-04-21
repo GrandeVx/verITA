@@ -1,11 +1,11 @@
 ## verITA
 
-## Introduzione
+## _Introduzione_
 
 Il _**Made in Italy**_ rappresenta un _**patrimonio inestimabile**_ riconosciuto in tutto il mondo per la sua eccellenza, tuttavia il fenomeno della contraffazione minaccia l'integrità di questo patrimonio, compromettendo la reputazione e l'economia italiana. Il progetto _**verITA nasce**_ dalla necessità di proteggere l'essenza del Made in Italy, _**preservando l'autenticità**_ e 
 la _**qualità**_ dei nostri prodotti attraverso l'adozione di _**soluzioni tecnologiche avanzate**_. 
 
-## Goals di verITA
+## _Goals di verITA_
 
 - **Garantire l'autenticità** e **l'originalità** dei prodotti Made in Italy : attraverso l'implementazione di _**sistemi avanzati di riconoscimento**_ e _**autenticazione**_,
   vogliamo garantire che ogni prodotto Made in Italy sia genuino e originale. 
@@ -21,14 +21,14 @@ _**segnalazione di prodotti   contraffatti**_ creando un _**network**_ di **_col
 
 <br>
 
-## Stack Tecnologico 
+## _Stack Tecnologico_ 
 
 - **Hardware** :  **RFid** _(readable-writable)_ con tecnologia **PUF** _(Physical Unclonable Functions)_
 - **Software** : // 
 
 <br>
 
-## Architettura del Sistema
+## _Architettura del Sistema_
 
 _**Descrizione generale**:_
 
