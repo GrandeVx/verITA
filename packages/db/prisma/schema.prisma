@@ -20,36 +20,45 @@ datasource db {
   url          = env("DATABASE_URL")
 }
 
-model Post {
-    id        Int      @id @default(autoincrement())
-    
-    name      String
-    user_id String
-    email     String
-
-    User user @relation(fields: [user_id], references: [id])
-    createdAt DateTime @default(now())
-    updatedAt DateTime @updatedAt
-    @@index([name, user_id])
-}
-
-model user {
-  id        String @id @unique
-  email     String @unique
-  stripeCustomerId String? @unique
-  firstName String
-  lastName  String
-  profileImageUrl String?
-
-  Posts Post[]
-  
-  isPremium Boolean @default(false)
-  PremiumUntil DateTime?
-
+model company {
+  id        Int      @id @default(autoincrement())
+  name      String
+  imageUrl  String
+  products  product[]
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
+}
 
-  @@index([id])
+model product {
+  id        String  @id @default(cuid())
+  name      String
+  imageUrl  String
+  info      String // JSON string
+  companyId Int
+  company   company  @relation(fields: [companyId], references: [id])
+  codes     code[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model code {
+  id       Int      @id @default(autoincrement())
+  code     String   @db.Uuid
+  status   String   @default("trusted")
+  product   product @relation(fields: [productId], references: [id])
+  productId String
+  requests request[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model request {
+  id        Int      @id @default(autoincrement())
+  position  String 
+  code   code @relation(fields: [codeId], references: [id])
+  codeId Int
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
 }
 
 

@@ -1,6 +1,6 @@
 packages:
-  - apps/next.js
-  - apps/mobile
+  - apps/user
+  - apps/company
   - packages/api
   - packages/db
   - packages/config/*
