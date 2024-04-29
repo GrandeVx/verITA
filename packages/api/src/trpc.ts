@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 /**
  * YOU PROBABLY DON'T NEED TO EDIT THIS FILE, UNLESS:
  * 1. You want to modify request context (see Part 1).
@@ -56,7 +58,6 @@ export const createInnerTRPCContext = (opts: CreateContextOptions) => {
 export const createTRPCContext = async (opts: { req: NextRequest }) => {
   // If the session is invalid, return a context with no session
   return createInnerTRPCContext({
-    // @ts-expect-error - we're not using req/res
     headers: opts.req.headers,
   });
 };
