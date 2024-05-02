@@ -72,6 +72,7 @@ import {
 } from "@/components/ui/tooltip";
 
 import { api } from "@/trpc/server";
+import UUIDGenerator from "@/components/uuid-generator";
 
 export default async function Dashboard() {
   const requests = await api.product.getAllRequests.query({
@@ -192,7 +193,7 @@ export default async function Dashboard() {
                   </CardDescription>
                 </CardHeader>
                 <CardFooter>
-                  <Button>Create New UUID Chip</Button>
+                  <UUIDGenerator />
                 </CardFooter>
               </Card>
               <Card x-chunk="dashboard-05-chunk-1">

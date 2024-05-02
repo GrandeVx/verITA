@@ -21,6 +21,7 @@ import {
   Users2,
 } from "lucide-react";
 import Link from "next/link";
+import { Toaster } from "@/components/ui/toaster";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -39,7 +40,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <body className={`font-sans ${inter.variable}`}>
         <ThemeProvider
           attribute="class"
@@ -102,6 +103,7 @@ export default function RootLayout({
               </aside>
 
               {children}
+              <Toaster />
             </TooltipProvider>
           </TRPCReactProvider>
         </ThemeProvider>

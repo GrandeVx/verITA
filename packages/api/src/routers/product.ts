@@ -90,4 +90,21 @@ export const productRout = createTRPCRouter({
 
       return requests;
     }),
+
+  addCodes: publicProcedure
+    .input(z.object({ codes: z.array(z.string()), productId: z.string() }))
+    .mutation(async ({ ctx, input }) => {
+      const codes = input.codes.map((code) => {
+        return {
+          code,
+          productId: input.productId,
+        };
+      });
+
+      const createdCodes = await ctx.db.code.createMany({
+        data: codes,
+      });
+
+      return createdCodes;
+    }),
 });
