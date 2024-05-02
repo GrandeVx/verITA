@@ -1,3 +1,4 @@
+
 import { api } from "@/trpc/server";
 import { TRPCError } from "@trpc/server";
 import Image from "next/image";
@@ -215,7 +216,10 @@ export default async function VerificationPage({
               </div>
 
               <div className="mt-8 flow-root sm:mt-2">
-                {info["info"].map((item: any) => {
+                {info["info"].map((item: {
+                  title: string;
+                  body: string;
+                }) => {
                   return (
                     <div className="mt-1">
                       <h2 className="text-xl font-bold">{item.title}</h2>

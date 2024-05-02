@@ -10,10 +10,8 @@ import {
   Package2,
   PanelLeft,
   PlusCircle,
-  Search,
-  Settings,
-  ShoppingCart,
-  Users2,
+  Search, ShoppingCart,
+  Users2
 } from "lucide-react";
 
 import { Badge } from "@/components/ui/badge";
@@ -54,11 +52,6 @@ import {
   TableRow,
 } from "@/components/ui/table";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import {
-  Tooltip,
-  TooltipContent,
-  TooltipTrigger,
-} from "@/components/ui/tooltip";
 
 import { api } from "@/trpc/server";
 
