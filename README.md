@@ -34,6 +34,14 @@ Il _**Made in Italy**_ rappresenta un _**patrimonio inestimabile**_ riconosciuto
                   
 <br>
 
+## _How to Run_
+
+il progetto è implementato utilizzando il Package manager **pnpm** sfruttando la potenza di **turbo** per il _build parallelo_ , i passi per il run sono questi:
+
+1) Generare i .env per "apps/company" e "apps/user" sfruttando come base l'env.example
+2) dalla folder inziale lanciare il seguente comando "pnpm i" per ottenere il necessario per il funzionamento
+3) lanciare "pnpm dev" il quale lancierà le istanze in parallelo
+
 
 ## _Architettura del Sistema_
 
